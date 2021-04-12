@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
 body {
   margin: 0;
-  padding: 0 5% 0 5%;
+  font-family: 'Montserrat', sans-serif;
 }
 header div {
   border: 1px solid red;
@@ -10,15 +12,34 @@ nav {
   border: 1px solid blue;
 }
 
-.carrousel {
-  padding: 0 20% 0 20%;
+.logo_header {
+  height: 70px;
 }
+
+.logo_header1 {
+  height: 120px;
+}
+
 .d-block {
   width: 400px;
-  height: 500px;
+  height: 700px;
 }
 
 .pyp {
   width: 200px;
   height: 280px;
+}
+
+.logo_social {
+  width: 25px;
+  height: 25px;
+}
+
+.logo_footer {
+  width: 20%;
+  height: auto;
+}
+
+footer {
+  background-color: #e0dfdc;
 }
