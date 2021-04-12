@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0 5% 0 5%;
+}
+header div {
+  border: 1px solid red;
+}
+
+nav {
+  border: 1px solid blue;
+}
+
+.carrousel {
+  padding: 0 20% 0 20%;
+}
+.d-block {
+  width: 400px;
+  height: 500px;
+}
+
+.pyp {
+  width: 200px;
+  height: 280px;
+}
